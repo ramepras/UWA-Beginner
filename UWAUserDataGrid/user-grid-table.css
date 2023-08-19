@@ -1,0 +1,30 @@
+.module {
+    margin: 20px auto;
+    height: auto;
+    width: 90%;
+    min-width: 320px;
+    border: 1px solid #79A7E2;
+    background: #FFF;
+}
+
+.my-dataGrid {
+    height: 80%;
+    width: 100%;
+}
+
+.my-dataGrid td,
+
+.my-dataGrid th {
+    white-space: nowrap;
+}
+
+.my-dataGrid .fixed-column {
+    background-color: #FFF;
+}
+
+.uwa-datagrid .uwa-datagrid-table td {
+    padding: 8px 5px;
+    background-color: #ECECEC;
+    text-align: left;
+    vertical-align: middle;
+}
